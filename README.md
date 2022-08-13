@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="Hero Image" src="assets\HeroGif.gif" width="600">
+    <img alt="Hero Image" src="HeroGif.gif" width="600">
   </picture>
   <br>
   <br>
