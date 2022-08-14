@@ -9,7 +9,7 @@
     <img alt="Hero Image" src="Copy of Hello! UwU.gif" width="600">
   </picture>
   <picture>
-    <img alt="Hero Image" src="HeroImage1.gif" width="600">
+    <img alt="Hero Image" src="HeroImage1.gif" width="900">
   </picture>
   <br>
   <br>
