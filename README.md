@@ -3,7 +3,7 @@
     <img alt="Hero Image" src="HeroGif.gif" width="600">
   </picture>
   <picture>
-    <img alt="Hero Image" src="Hello! UwU.gif" width="600">
+    <img alt="Hero Image" src="Hello! UwU.gif" width="900">
   </picture>
   <br>
   <br>
