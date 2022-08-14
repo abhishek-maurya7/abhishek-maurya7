@@ -1,15 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="Hero Image" src="HeroGif.gif" width="600">
-  </picture>
-  <picture>
-    <img alt="Hero Image" src="Hello! UwU.gif" width="600">
-  </picture>
-  <picture>
-    <img alt="Hero Image" src="Copy of Hello! UwU.gif" width="600">
-  </picture>
-  <picture>
-    <img alt="Hero Image" src="HeroImage1.gif" width="700">
+    <img alt="Hero Image" src="HeroImage1.gif" width="600">
   </picture>
   <br>
   <br>
