@@ -5,6 +5,9 @@
   <picture>
     <img alt="Hero Image" src="Hello! UwU.gif" width="600">
   </picture>
+  <picture>
+    <img alt="Hero Image" src="Copy of Hello! UwU.gif" width="600">
+  </picture>
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=abhishek-maurya7&style=flat&color=brightgreen" alt="Profile Views">
