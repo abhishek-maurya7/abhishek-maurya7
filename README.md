@@ -2,6 +2,7 @@
   <picture>
     <img alt="Hero Image" src="HeroImage1.gif" width="600">
   </picture>
+  <!--To create your own Hero Image: https://www.canva.com/design/DAFJSSKNYZo/rPq6VBZBB2bLE3S_nWTN8Q/view?utm_content=DAFJSSKNYZo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview -->
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=abhishek-maurya7&style=flat&color=brightgreen" alt="Profile Views">
@@ -18,8 +19,11 @@
     <a href="https://www.instagram.com/me_abhishekmaurya"><img src="https://img.shields.io/static/v1?label=Instagram&message=@_me_abhishekmaurya_&logo=Instagram&style=flat&color=ff007f" alt="Abhishek's Instagram"></a>
     <a href="https://twitter.com/_Newbie_10"><img src="https://img.shields.io/static/v1?label=Twitter&message=@_Newbie_10&logo=Twitter&style=flat&color=1DA1F2"
                                                   alt="Abhishek's Twitter"></a>
-    <a href="mailto:janardanmaurya238@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=janardanmaurya238@gmail.com&logo=Gmail&style=flat&color=red"
-                                                      alt="Abhishek's Twitter"></a>
+    <a href="mailto:janardanmaurya238@gmail.com">
+      <img 
+           src="https://img.shields.io/static/v1?label=Gmail&message=janardanmaurya238@gmail.com&logo=Gmail&style=flat&color=red"
+           alt="Abhishek's Twitter">
+    </a>
   </div>
 </div>
 
@@ -28,30 +32,23 @@
   <summary>Programming Stats</summary>
   <br>
 
-  [![wakatime](https://wakatime.com/badge/user/2840aa63-e969-409c-954a-8bef84dc2f5e.svg)](https://wakatime.com/@2840aa63-e969-409c-954a-8bef84dc2f5e)
-
-  ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-maurya7&theme=github_dark&show_icons=true)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya7&layout=compact&theme=github_dark)
-
-  ![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishek_maurya&theme=github_dark)
-  <br><br>
-</details>
-
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
     <tr>
       <td>
         
-        [![wakatime](https://wakatime.com/badge/user/2840aa63-e969-409c-954a-8bef84dc2f5e.svg)](https://wakatime.com/@2840aa63-e969-409c-954a-8bef84dc2f5e)
-        
+[![wakatime](https://wakatime.com/badge/user/2840aa63-e969-409c-954a-8bef84dc2f5e.svg)](https://wakatime.com/@2840aa63-e969-409c-954a-8bef84dc2f5e)  
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/abhishek-maurya7?style=social" alt="Abhishek's Twitter">
       </td>
   </tr>
+  <tr></tr>
   <tr>
     <td>
       
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-maurya7&theme=github_dark&show_icons=true)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-maurya7&theme=github_dark&show_icons=true&card_width=400)
       
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya7&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya7&theme=github_dark&card_width=400)
 </td>
 <td>
       
@@ -60,6 +57,9 @@
 </td>
   </tr>
 </table>
+  <br><br>
+</details>
+
 <!--
 **abhishek-maurya7/abhishek-maurya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
