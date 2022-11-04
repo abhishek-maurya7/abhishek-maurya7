@@ -39,6 +39,13 @@
 </details>
 
 <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        
+        [![wakatime](https://wakatime.com/badge/user/2840aa63-e969-409c-954a-8bef84dc2f5e.svg)](https://wakatime.com/@2840aa63-e969-409c-954a-8bef84dc2f5e)
+        
+      </td>
+  </tr>
   <tr>
     <td>
       
