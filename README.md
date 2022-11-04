@@ -47,9 +47,13 @@
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya7&theme=github_dark)
       
     </td>
+    
     <td>
+      
       ![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishek_maurya&theme=github_dark)
+      
     </td>
+    
   </tr>
 </table>
 <!--
