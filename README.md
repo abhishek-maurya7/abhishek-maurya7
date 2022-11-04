@@ -38,7 +38,7 @@
   <br><br>
 </details>
 
-<table border="0" cellspacing="0" cellpadding="0" border-radius: 10px;>
+<table border="0" cellspacing="0" cellpadding="0" style="border-radius: 10px">
   <tr>
     <td>
       
