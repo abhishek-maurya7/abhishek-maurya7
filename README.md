@@ -44,12 +44,12 @@
       
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-maurya7&theme=github_dark&show_icons=true)
 
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra-bazukaa&theme=nord" alt="nakshatra-bazukaa">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya7&theme=github_dark)
 
 </td>
 <td>
       
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya7&theme=github_dark)
+  ![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishek_maurya&theme=github_dark)
 
 </td>
   </tr>
