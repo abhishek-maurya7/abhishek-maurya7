@@ -38,6 +38,22 @@
   <br><br>
 </details>
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-maurya7&theme=github_dark&show_icons=true)
+
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra-bazukaa&theme=nord" alt="nakshatra-bazukaa">
+
+</td>
+<td>
+      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya7&layout=compact&theme=github_dark)
+
+</td>
+  </tr>
+</table>
 <!--
 **abhishek-maurya7/abhishek-maurya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
