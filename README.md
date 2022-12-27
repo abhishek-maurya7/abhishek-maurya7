@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="Hero Image" src="HeroImage1.gif" width="600">
+    <img alt="Hero Image" src="https://media.discordapp.net/attachments/840838780364914698/1057230199831416862/Hello_UwU.gif" width="600">
   </picture>
   <!--To create your own Hero Image: https://www.canva.com/design/DAFJSSKNYZo/rPq6VBZBB2bLE3S_nWTN8Q/view?utm_content=DAFJSSKNYZo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview -->
   <br>
