@@ -1,6 +1,6 @@
 <div align="center">
  <picture>
-    <img alt="Hero Image" src="hero.gif" width="600" />
+    <img src="img/hero.gif" alt="Hero Image" />
  </picture>
   <!--To create your own Hero Image: https://www.canva.com/design/DAFJSSKNYZo/rPq6VBZBB2bLE3S_nWTN8Q/view?utm_content=DAFJSSKNYZo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview -->
   <br>
