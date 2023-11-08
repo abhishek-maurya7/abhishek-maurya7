@@ -6,7 +6,8 @@
 </div>
 
 <div id="about">
-  <h2>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Abhishek Maurya</h2>
+  <h2>About Me</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in orci ipsum. Phasellus eu euismod dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel nibh interdum, posuere mauris sed, fermentum enim. Nunc lacinia neque aliquet tincidunt posuere. Praesent molestie molestie tempus. Sed quis tempor neque.</p>
 </div>
 <div id="socials">
   <h2>Socials</h2>
